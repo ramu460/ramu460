@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>Hey there! I'm a passionate tech enthusiast currently exploring Python, Java, Django, FastAPI, SQL, and Web Development. I love learning new technologies and improving my problem-solving skills.<br><br>💡 What I'm Learning: Python, DSA, Django (including a Django Blog), FastAPI, Postman, SQL, and more!<br>🚀 Current Project: A Workflow-Based Pricing Consultancy System (Java, JSP, Servlets, MySQL)<br>📝 Building: A Django Blog to sharpen my web development skills.<br>🎯 Goal: Become a skilled Software Engineer and get placed in a top IT company.<br>📍 Interests: Backend Development, Automation Testing, and Full-Stack Development
+👋 About Me<br>Hey there! I'm a passionate tech enthusiast currently exploring Python, Java, Django, FastAPI, SQL, and Web Development. I love learning new technologies and improving my problem-solving skills.<br><br>💡 What I'm Learning: Python, DSA, Django (including a Django Blog), Postman, SQL, and more!<br>🚀 Current Project: A Workflow-Based Pricing Consultancy System (Java, JSP, Servlets, MySQL)<br>📝 Building: A Django Blog to sharpen my web development skills.<br>🎯 Goal: Become a skilled Software Engineer and get placed in a top IT company.<br>📍 Interests: Backend Development, Automation Testing, and Full-Stack Development
 
 
 ## 🌐 Socials:
